@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Locations/Wandering Emporium/Wandering Emporium.md",
-            "mode": "source",
+            "file": "Locations/Wandering Emporium/Ichor’s Aweigh!.md",
+            "mode": "preview",
             "source": false
           }
         }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Wandering Emporium/Wandering Emporium.md",
+                "file": "Locations/Wandering Emporium/Ichor’s Aweigh!.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,15 +98,15 @@
   },
   "active": "762a706456569448",
   "lastOpenFiles": [
-    "Locations/Wandering Emporium/Wandering Emporium.md",
-    "Locations/Wandering Emporium/Infernal Rapture/Mahadi.md",
+    "Locations/Wandering Emporium/Ichor’s Aweigh!.md",
+    "Locations/Wandering Emporium/Gabool's Pitchfork Emporium.md",
+    "Imports/Demon Ichor.csv",
+    "Locations/Wandering Emporium/Sister Elga's House of Curses.md",
     "Locations/Wandering Emporium/The Rose Repose.md",
-    "Images/Ibnar.png",
-    "Images/Vroscaz.png",
-    "Images/Blophog.png",
-    "Locations/Wandering Emporium/Blophog’s Wondrous Things.md",
-    "Images/Mahadi.png",
-    "Stat Blocks/Pasted image 20220512182346.png",
-    "Locations/Wandering Emporium/Sister Elga's House of Curses.md"
+    "Imports/Gabool's Pitchfork Emporium.csv",
+    "Locations/Wandering Emporium/Wandering Emporium.md",
+    "Imports/Rose Repose.csv",
+    "Imports/Demon Ichor.csv.md",
+    "Locations/Wandering Emporium/Infernal Rapture/Mahadi.md"
   ]
 }

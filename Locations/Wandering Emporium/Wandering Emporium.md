@@ -1,3 +1,6 @@
+```toc
+title: "## Table of Contents"
+```
 # Summary:
 A traveling bazaar winds its way across Avernus — a wandering menagerie of merchants, artisans, and misfits who ply their respective trades and sell their wares under the direction of [[Mahadi]], a rakshasa that claims Asmodeus as his patron.
 
@@ -65,7 +68,7 @@ Fhet’Ahla failed a critical mission at some point in the past and gained the d
 
 **Notary Pricing.** Fhet’Ahla charges a single [soul coin](https://www.dndbeyond.com/magic-items/842308-soul-coin) for notary services and collects a single [soul coin](https://www.dndbeyond.com/magic-items/842308-soul-coin) for exchanges that don’t involve the soul of a celestial. If a celestial is involved, he collects ten [soul coins](https://www.dndbeyond.com/magic-items/842308-soul-coin).
 
-#### Ichor’s Aweigh!
+#### [[Ichor’s Aweigh!]]
 
 Elliach, a lawful evil human [mage](https://www.dndbeyond.com/monsters/16947-mage), collects and sells flasks of [demon ichor](https://www.dndbeyond.com/sources/bgdia/avernus#DemonIchor "demon ichor"). Exposure to demon ichor has warped Elliach in the following ways:
 
