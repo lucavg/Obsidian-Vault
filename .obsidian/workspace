@@ -1,17 +1,15 @@
 {
   "main": {
-    "id": "0362ce4d954bcd6e",
+    "id": "49100cbe4bc70775",
     "type": "split",
     "children": [
       {
-        "id": "45b8d7b38e5ff955",
+        "id": "a8d9e906deeb9a51",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "image",
           "state": {
-            "file": "Locations/Wandering Emporium/Wandering Emporium.md",
-            "mode": "source",
-            "source": false
+            "file": "Stat Blocks/Pasted image 20220512182346.png"
           }
         }
       }
@@ -19,15 +17,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "890a01de038afd76",
+    "id": "af0634c4d95bb622",
     "type": "split",
     "children": [
       {
-        "id": "89e2c0e0afce01e6",
+        "id": "23d11f3356895621",
         "type": "tabs",
         "children": [
           {
-            "id": "c0cc4c62e3d84d99",
+            "id": "51a978eacf30ecda",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -35,7 +33,7 @@
             }
           },
           {
-            "id": "2b34420d32b18ecf",
+            "id": "e3e5f4268f9fda88",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -56,20 +54,20 @@
     "width": 300
   },
   "right": {
-    "id": "ae61e5acb8356c45",
+    "id": "99f98c3ee5a533bc",
     "type": "split",
     "children": [
       {
-        "id": "85bc5a378217c065",
+        "id": "5b8266e660e23da3",
         "type": "tabs",
         "children": [
           {
-            "id": "2132a454f710f54d",
+            "id": "6ff7893681680509",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Wandering Emporium/Wandering Emporium.md",
+                "file": "Stat Blocks/Pasted image 20220512182346.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -79,34 +77,16 @@
                 "unlinkedCollapsed": true
               }
             }
-          },
-          {
-            "id": "ad77a08f754bc963",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
     "width": 300,
     "collapsed": true
   },
-  "active": "45b8d7b38e5ff955",
+  "active": "a8d9e906deeb9a51",
   "lastOpenFiles": [
-    "Locations/Wandering Emporium/Wandering Emporium.md",
-    "Locations/Wandering Emporium/Ichor’s Aweigh!.md",
-    "Images/Characters/Elliach.png",
-    "Locations/Wandering Emporium/Sister Elga's House of Curses.md",
-    "Images/Characters/Blophog.png",
-    "Images/Characters/Z'neth.png",
-    "Images/Locations/Wandering Emporium.png",
-    "Images/Characters/Brenda.png",
-    "Locations/Wandering Emporium/Gabool's Pitchfork Emporium.md",
-    "Imports/Demon Ichor.csv"
+    "Stat Blocks/Pasted image 20220512182346.png"
   ]
 }
