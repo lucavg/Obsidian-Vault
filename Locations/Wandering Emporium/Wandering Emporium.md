@@ -121,3 +121,16 @@ The Rose Repose, a shop embedded in the side of a warmachine with a wrought iron
 -  **Why use this shop?:** Many devils and yugoloths use pitchforks as their favoured weapons - it makes sense that they are in demand. It could also provide warmachines equipped with harpoon flingers some unique ammunition, at your discretion.
 
 A pitchfork (trident) costs 1 soul coin, and can have modifications purchased from the below table. A custom pitchfork costs 2 soul coins, and comes with three modifications (which each mustcome from the 1 soul range). A pitchfork can have up to four modifications. Pitchforks are not considered magic weapons unless specified by a modification.
+
+#### [[Sister Elga's House of Curses]]
+-   Store type: Magic Services
+
+-   Shop owner: Sister Elga, a green hag aspiring to become a night hag.
+
+-   Notable crew: A long-nosed gargoyle who watches the hut's door, a huge vulture who stands on the roof, and some kind of long-armed creature who performs tasks such as cleaning and inventory by reaching its long arms through tiny trapdoors around the shop.
+
+-   Why use this shop?: Removing mutations caused by demon ichor requires a remove curse spell. If the party has nobody who can cast this spell, this shop can provide a means of recovering from these effects. In addition, if players find themselves with bitter rivals, they can ask the hag to place curses on them to get an edge.
+
+A curse can be purchased in one of the following ways: as a one-time use poison (such as a dying toad who's last burp is poison gas, a vial of glowing blood to coat a weapon with for one strike, or toenail clippings which vanish into any meal they are sprinkled into without a trace), or by using a piece of the intended target. A poison requires a DC 15 Constitution save to avoid, while a curse cast through a piece of the target takes effect instantly. Any curse described here can be removed with a remove curse spell or similar effect.
+
+Besides listed prices, hags appreciate the morbid, the hideous, the weird, and above all, suffering. Seeing one of the characters or an innocent creature suffer at their own hands causes the hag delight enough to give services discounted or even free.

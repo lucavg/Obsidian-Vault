@@ -1,0 +1,11 @@
+﻿Curse Service,Price,Effect
+Remove Curse,2s or 1 finger,Described on Player's Handbook p. 271. The hag magically lifts the mutation from the body and stores it in a vial for later use.
+Curse of Leaping Blood,3s,"Target gains vulnerability to slashing damage. At the end of a long rest, they can make a DC 15 Con save to end the effect."
+Curse of Bloated Organs,3s,"Target gains vulnerability to piercing damage. At the end of a long rest, they can make a DC 15 Con save to end the effect."
+Curse of Aching Bones,3s,"Target gains vulnerability to bludgeoning damage. At the end of a long rest, they can make a DC 15 Con save to end the effect."
+Curse of Agonizing Step,2s,"When moving (or standing) on foot, rolling a 1-5 on an attack roll, saving throw, or skill check causes the target to feel as if they stepped on glass- they are effected as if they had stepped on caltrops."
+Curse of Screaming Wind,2s,"When the target ends its turn while flying, they must make a DC 15 Constitution saving throw or take 1d6 thunder damage and be deafened until the end of their next turn."
+Curse of Sleepless Nights,3s,"Target must make a DC 15 Wisdom saving throw each time they attempt a long rest. On a failure, they gain no benefit from the rest, but spend the full time lying awake or being wracked by awful nightmares."
+Curse of Lard Sweat,2s,"Whenever target rolls a 1 on an attack roll or saving throw, they drop all items they are carrying and have the grease spell (phb 246) immediately cast centered upon themselves)."
+Curse of Frog Throat,3s,"Throat swells like a balloon when the target is trying to talk, but no sound escapes their mouth."
+Curse of Two Tongues,2s,"A second mouth appears on the target's body. The target requires 1 additional day's worth of rations each day, and the mouth makes weird noises at bad times."
