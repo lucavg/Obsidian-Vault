@@ -6,6 +6,7 @@ Most merchants in the Wandering Emporium are indentured to [[Mahadi]]’s servic
 Mahadi is very serious about his contract between host and guest in the Wandering Emporium, and the only significant requirements for a guest are “No fighting, no spellcasting, and pay for services rendered.” The mere act of entering the Wandering Emporium signs a contract that there must be “no fuss,” which Mahadi holds for each guest, immediately canceled the moment they step outside the bounds of the establishment.
 # Shops:
 #### [[Infernal Rapture]]:
+![[Mahadi.png]]
 As the owner and host of Infernal Rapture, Mahadi takes his responsibilities very seriously. Every patron that enters the demiplane that houses his establishment must sign an infernal contract. It presents a very simple arrangement stipulating that patrons must pay for everything consumed and all services used before they leave.
 
 Mahadi employs many servants, each of them under the effect of a [geas](https://www.dndbeyond.com/spells/geas) spell to provide the best service they possibly can and appear happy while they work. Most of these individuals are former patrons.
@@ -26,7 +27,7 @@ Special food requests can be filled, but they must be made weeks in advance and 
 
 
 #### [[Firesnake Forge]]
-
+![[Salamanders.png]]
 This establishment is run by three [salamanders](https://www.dndbeyond.com/monsters/17004-salamander) named Rassh, Skids, and Slagg. The salamanders owe Mahadi a debt for taking them in and secreting them away after a bold escape from [Bel’s Forge](https://www.dndbeyond.com/sources/bgdia/avernus-path-of-devils#BelsForge "Bel’s Forge"). They operate as indentured servants, maintaining Mahadi’s infernal war machines while also crafting wares for sale to visitors. From time to time, Mahadi sends them abroad to procure parts to refurbish the caravan. Nine [magmins](https://www.dndbeyond.com/monsters/16949-magmin) and eight suits of [animated armor](https://www.dndbeyond.com/monsters/16786-animated-armor) assist the salamanders with their work.
 
 The salamanders’ infernal war machine has been cobbled together from a half dozen others. At a moment’s notice, the vehicle can separate into three smaller infernal war machines, each piloted by one of the salamanders. Treat these smaller vehicles as [Tormentors](https://www.dndbeyond.com/vehicles/tormentor).
@@ -35,27 +36,27 @@ The salamanders’ infernal war machine has been cobbled together from a half do
 
 **Infernal War Machine Repair.** The salamanders can repair a damaged but functional infernal war machine at a cost of 50 gp per hit point restored.
 
-#### Burney the Barber
+#### Brenda the Barber
+![[Brenda.png]]
+Brenda appears as a cheerful, well-kept Calishite woman. She provides all services any proficient barber might, up to and including medical attention for those with injuries or ailments. For healing purposes, treat Brenda as though she has the [Healer feat](https://www.dndbeyond.com/feats/healer "Healer feat") as well as proficiency with both the [healer’s kit](https://www.dndbeyond.com/equipment/healers-kit) and the [herbalism kit](https://www.dndbeyond.com/equipment/herbalism-kit).
 
-Burney appears as a cheerful, well-kept Calishite woman. She provides all services any proficient barber might, up to and including medical attention for those with injuries or ailments. For healing purposes, treat Burney as though she has the [Healer feat](https://www.dndbeyond.com/feats/healer "Healer feat") as well as proficiency with both the [healer’s kit](https://www.dndbeyond.com/equipment/healers-kit) and the [herbalism kit](https://www.dndbeyond.com/equipment/herbalism-kit).
+While she works, Brenda tells all manner of stories, making them up as she goes along, but always with a moral at the end. Brenda’s stories might point toward an achievable objective, if the customer is of good alignment and inclined to take direction from the chatty barber.
 
-While she works, Burney tells all manner of stories, making them up as she goes along, but always with a moral at the end. Burney’s stories might point toward an achievable objective, if the customer is of good alignment and inclined to take direction from the chatty barber.
+Brenda is, in fact, an [ancient copper dragon](https://www.dndbeyond.com/monsters/16779-ancient-copper-dragon) named Balarystul. Brenda resides in Avernus on direct assignment from Bahamut, keeping an eye out for signs of increased activity among Tiamat’s followers. After the last time the queen of evil dragons tried to escape the Nine Hells, those who oppose her are taking no chances. Brenda is particularly interested in any information about the activities of [Arkhan the Cruel](https://www.dndbeyond.com/monsters/416910-arkhan-the-cruel) (see "[Arkhan the Cruel](https://www.dndbeyond.com/sources/bgdia/avernus-path-of-devils#ArkhantheCruel "Arkhan the Cruel")").
 
-Burney is, in fact, an [ancient copper dragon](https://www.dndbeyond.com/monsters/16779-ancient-copper-dragon) named Balarystul. Burney resides in Avernus on direct assignment from Bahamut, keeping an eye out for signs of increased activity among Tiamat’s followers. After the last time the queen of evil dragons tried to escape the Nine Hells, those who oppose her are taking no chances. Burney is particularly interested in any information about the activities of [Arkhan the Cruel](https://www.dndbeyond.com/monsters/416910-arkhan-the-cruel) (see "[Arkhan the Cruel](https://www.dndbeyond.com/sources/bgdia/avernus-path-of-devils#ArkhantheCruel "Arkhan the Cruel")").
+Brenda has received several blessings in her service to Bahamut:
 
-[[Burney]] has received several blessings in her service to Bahamut:
+-   Unless Brenda decided otherwise, once any creature less powerful than a deity has taken three steps from her, they can no longer remember her or having interacted with her specifically.
+-   Brenda is under the effect of a permanent [mind blank](https://www.dndbeyond.com/spells/mind-blank) spell, and cannot be detected by magical or mundane means unless she wishes it. In exchange for this blessing, Brenda can take no direct action against the denizens of the Nine Hells, though she can certainly enlist the help of those who can.
+-   Brenda always knows the location of the Wandering Emporium and can transport herself there as though by a [word of recall](https://www.dndbeyond.com/spells/word-of-recall) spell. This explains why Brenda simply seems to appear amid the fully deployed marketplace each morning it is active to provide service and tell stories.
+-   Once each day, when Brenda so desires, she can instantly transport herself to the court of Bahamut via a powerful blessing akin to the [plane shift](https://www.dndbeyond.com/spells/plane-shift) spell.
 
--   Unless Burney decided otherwise, once any creature less powerful than a deity has taken three steps from her, they can no longer remember her or having interacted with her specifically.
--   Burney is under the effect of a permanent [mind blank](https://www.dndbeyond.com/spells/mind-blank) spell, and cannot be detected by magical or mundane means unless she wishes it. In exchange for this blessing, Burney can take no direct action against the denizens of the Nine Hells, though she can certainly enlist the help of those who can.
--   Burney always knows the location of the Wandering Emporium and can transport herself there as though by a [word of recall](https://www.dndbeyond.com/spells/word-of-recall) spell. This explains why Burney simply seems to appear amid the fully deployed marketplace each morning it is active to provide service and tell stories.
--   Once each day, when Burney so desires, she can instantly transport herself to the court of Bahamut via a powerful blessing akin to the [plane shift](https://www.dndbeyond.com/spells/plane-shift) spell.
+**Barber Pricing.** Brenda charges 1 gp for each service involving grooming. Brenda can provide some small amount of magic healing, but only does so for good-aligned creatures, and at no cost.
 
-**Barber Pricing.** Burney charges 1 gp for each service involving grooming. Burney can provide some small amount of magic healing, but only does so for good-aligned creatures, and at no cost.
-
-If someone offers Burney a [soul coin](https://www.dndbeyond.com/magic-items/842308-soul-coin) for any reason, she looks extremely disappointed and turns it down. She refuses even to touch one.
+If someone offers Brenda a [soul coin](https://www.dndbeyond.com/magic-items/842308-soul-coin) for any reason, she looks extremely disappointed and turns it down. She refuses even to touch one.
 
 #### [[From Here to Avernus]]
-
+![[Fhet'Ahla.png]]
 Fhet’Ahla, an [amnizu](https://www.dndbeyond.com/monsters/94669-amnizu), provides [imps](https://www.dndbeyond.com/monsters/16933-imp) as couriers as well as a variety of spellcasting services for transmitting information over long distances. The more secure the means, however, the more expensive the service. Additionally, Fhet’Ahla acts as an exchange for [soul coins](https://www.dndbeyond.com/magic-items/842308-soul-coin), offering 100 gp in coins or gemstones for each [soul coin](https://www.dndbeyond.com/magic-items/842308-soul-coin) delivered, and can serve as an official notary for the signing of infernal contracts.
 
 Fhet’Ahla failed a critical mission at some point in the past and gained the disfavor of Asmodeus. As a punishment, Asmodeus posted him with Mahadi. While Fhet’Ahla doesn’t owe Mahadi any kind of debt, he is on the wrong side of Asmodeus and has no idea how many centuries this service will last. The amnizu is also forbidden from challenging Mahadi’s authority in all matters pertaining to the operation of the Wandering Emporium or any other special assignments the rakshasa receives from Asmodeus.
@@ -70,14 +71,17 @@ Elliach, a lawful evil human [mage](https://www.dndbeyond.com/monsters/16947-ma
 
 -   Elliach’s arms have become tentacles with fingers at the ends, increasing his reach by 5 feet.
 -   Elliach’s ears sprouted wings and flew away. Consequently, he is deaf. He relies on lip-reading and hand gestures.
-
+![[Elliach.png]]
 Elliach met Mahadi while on the run from debt collectors. Mahadi saw the value in paying off Elliach’s debts and bringing him to Avernus to work in the Wandering Emporium. Thought to be insane by many of the other vendors, Elliach uses demon ichor in a host of magical experiments, none of which seem to have the intended results.
 
 **Demon Ichor Prices.** Elliach sells demon ichor for 50 gp a flask and buys demon ichor for 25 gp a flask.
 
 #### Z’neth’s Larva Farm
 
-Z’neth is a bitter, old [hobgoblin warlord](https://www.dndbeyond.com/monsters/17161-hobgoblin-warlord) who buys and sells [larvae](https://www.dndbeyond.com/monsters/27752-larva) (see [chapter 2](https://www.dndbeyond.com/sources/dmg/creating-a-multiverse#Hades "chapter 2") of the _[Dungeon Master’s Guide](https://www.dndbeyond.com/sources/dmg "Dungeon Master’s Guide")_ for statistics). Mahadi facilitated Z’neth’s rise to power, helping him destroy entire kingdoms on the Material Plane. Z’neth’s conquests eventually caught the eye of the mighty god Maglubiyet, who offered Z’neth a command on the battlefields of Gehenna. Before he could wrack up his first victory on that plane, however, Mahadi collected on Z’neth’s debt and bore him away to Avernus, where he languishes in obscurity, far from the planar battlefield he had hoped to die on.
+Z’neth is a bitter, old [hobgoblin warlord](https://www.dndbeyond.com/monsters/17161-hobgoblin-warlord) who buys and sells [larvae](https://www.dndbeyond.com/monsters/27752-larva) (see [chapter 2](https://www.dndbeyond.com/sources/dmg/creating-a-multiverse#Hades "chapter 2") of the _[Dungeon Master’s Guide](https://www.dndbeyond.com/sources/dmg "Dungeon Master’s Guide")_ for statistics). 
+![[Z'neth.png]]
+
+Mahadi facilitated Z’neth’s rise to power, helping him destroy entire kingdoms on the Material Plane. Z’neth’s conquests eventually caught the eye of the mighty god Maglubiyet, who offered Z’neth a command on the battlefields of Gehenna. Before he could wrack up his first victory on that plane, however, Mahadi collected on Z’neth’s debt and bore him away to Avernus, where he languishes in obscurity, far from the planar battlefield he had hoped to die on.
 
 Z’neth procures larvae from yugoloths and sells them at marked-up prices to hags and other interested buyers, giving half his proceeds to Mahadi in exchange for food and other necessities. Z’neth’s wares are of little interest to adventurers. However, Z’neth is fond of using his profits to hire assassins to kill Mahadi, which the rakshasa finds endlessly amusing.
 
@@ -88,10 +92,12 @@ Larvae. At any given time, Z’neth has 2d6 [larvae](https://www.dndbeyond.com
 #### [[Blophog’s Wondrous Things]]
 
 [[Blophog]] is a bearded devil with only one chin tentacle. He sells an abundance of wonderful things that are thoroughly suspect.
+![[Blophog.png]]
 
 #### The Distinguished Traveler
 
 [Tavokiin](https://dgbg.obsidianportal.com/characters/tavokiin), an older, tired githyanki knight, runs a shop in which there are various supplies needed for travel. Rope, tents, climbing gear, tinker’s tools, etc. are available here, although there are no travel rations (“Visit the Infernal Rapture. They can pack you a delightful picnic meal at your convenience!”)
+![[Tavokiin.png]]
 
 #### [[The Rose Repose]]
 Store type: Jeweler, Perfumist, Florist, Necromancer
@@ -111,6 +117,7 @@ The Rose Repose, a shop embedded in the side of a warmachine with a wrought iron
 -   **Shop owner:** Vroscaz the lich
 -  **Store type:** Weapons
 -  **Shop owner:** Gabool, a spined devil with prominent pitchfork-like horns
+![[Gabool.png]]
 
 -  **Notable crew:** Gabool's "Brother" Argrel the barbed devil, cursed with a scrunched-up face and especially short legs. He repeats Gabool's pitchfork-related exclamations and helps with upkeep of the weapon stand.
 

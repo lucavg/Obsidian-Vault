@@ -2,5 +2,6 @@
   "table-editor-obsidian",
   "obsidian-csv-table",
   "csv-obsidian",
-  "obsidian-git"
+  "obsidian-git",
+  "obsidian-dynamic-toc"
 ]
