@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "762a706456569448",
+        "id": "45b8d7b38e5ff955",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Locations/Wandering Emporium/Ichor’s Aweigh!.md",
-            "mode": "preview",
+            "file": "Locations/Wandering Emporium/Wandering Emporium.md",
+            "mode": "source",
             "source": false
           }
         }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Wandering Emporium/Ichor’s Aweigh!.md",
+                "file": "Locations/Wandering Emporium/Wandering Emporium.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,17 +96,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "762a706456569448",
+  "active": "45b8d7b38e5ff955",
   "lastOpenFiles": [
-    "Locations/Wandering Emporium/Ichor’s Aweigh!.md",
-    "Locations/Wandering Emporium/Gabool's Pitchfork Emporium.md",
-    "Imports/Demon Ichor.csv",
-    "Locations/Wandering Emporium/Sister Elga's House of Curses.md",
-    "Locations/Wandering Emporium/The Rose Repose.md",
-    "Imports/Gabool's Pitchfork Emporium.csv",
     "Locations/Wandering Emporium/Wandering Emporium.md",
-    "Imports/Rose Repose.csv",
-    "Imports/Demon Ichor.csv.md",
-    "Locations/Wandering Emporium/Infernal Rapture/Mahadi.md"
+    "Locations/Wandering Emporium/Ichor’s Aweigh!.md",
+    "Images/Characters/Elliach.png",
+    "Locations/Wandering Emporium/Sister Elga's House of Curses.md",
+    "Images/Characters/Blophog.png",
+    "Images/Characters/Z'neth.png",
+    "Images/Locations/Wandering Emporium.png",
+    "Images/Characters/Brenda.png",
+    "Locations/Wandering Emporium/Gabool's Pitchfork Emporium.md",
+    "Imports/Demon Ichor.csv"
   ]
 }
