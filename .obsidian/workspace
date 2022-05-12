@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Locations/Wandering Emporium/Sister Elga's House of Curses.md",
-            "mode": "preview",
+            "file": "Locations/Wandering Emporium/Wandering Emporium.md",
+            "mode": "source",
             "source": false
           }
         }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Wandering Emporium/Sister Elga's House of Curses.md",
+                "file": "Locations/Wandering Emporium/Wandering Emporium.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,10 +98,10 @@
   },
   "active": "762a706456569448",
   "lastOpenFiles": [
-    "Locations/Wandering Emporium/Sister Elga's House of Curses.md",
-    "Locations/Wandering Emporium/Gabool's Pitchfork Emporium.md",
     "Locations/Wandering Emporium/Wandering Emporium.md",
     "Locations/Wandering Emporium/The Rose Repose.md",
+    "Locations/Wandering Emporium/Sister Elga's House of Curses.md",
+    "Locations/Wandering Emporium/Gabool's Pitchfork Emporium.md",
     "Locations/Wandering Emporium/Firesnake Forge.md",
     "Locations/Wandering Emporium/Blophog’s Wondrous Things.md",
     "Pasted image 20220512192019.png.md",
