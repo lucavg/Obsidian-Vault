@@ -73,7 +73,7 @@ Elliach, a lawful evil human [mage](https://www.dndbeyond.com/monsters/16947-ma
 
 Elliach met Mahadi while on the run from debt collectors. Mahadi saw the value in paying off Elliach’s debts and bringing him to Avernus to work in the Wandering Emporium. Thought to be insane by many of the other vendors, Elliach uses demon ichor in a host of magical experiments, none of which seem to have the intended results.
 
-**Demon Ichor Prices.** Elliach sells demon ichor for 100 gp a flask and buys demon ichor for 25 gp a flask.
+**Demon Ichor Prices.** Elliach sells demon ichor for 50 gp a flask and buys demon ichor for 25 gp a flask.
 
 #### Z’neth’s Larva Farm
 
@@ -89,10 +89,6 @@ Larvae. At any given time, Z’neth has 2d6 [larvae](https://www.dndbeyond.com
 
 [[Blophog]] is a bearded devil with only one chin tentacle. He sells an abundance of wonderful things that are thoroughly suspect.
 
-#### Dangerous Knowledge
-
-[Tilin Ferik](https://dgbg.obsidianportal.com/characters/tilin-ferik), a former scientist, carries one of the widest assortment of rare books in the multiverse (he doesn’t have as large a selection as some, but he specializes in legitimately rare and unusual books). He has only a few books out in the store itself, but keeps a “back room” where he can go and get valuable works.
-
 #### The Distinguished Traveler
 
 [Tavokiin](https://dgbg.obsidianportal.com/characters/tavokiin), an older, tired githyanki knight, runs a shop in which there are various supplies needed for travel. Rope, tents, climbing gear, tinker’s tools, etc. are available here, although there are no travel rations (“Visit the Infernal Rapture. They can pack you a delightful picnic meal at your convenience!”)
@@ -101,10 +97,10 @@ Larvae. At any given time, Z’neth has 2d6 [larvae](https://www.dndbeyond.com
 Store type: Jeweler, Perfumist, Florist, Necromancer
 
 -   Shop owner: Vroscaz the lich
-![[Pasted image 20220512191948.png]]
+![[Vroscaz.png]]
 
 -   Notable crew: Ibnar, undead mind flayer who Vroscaz rescued from its Elder Brain, skeletons with soul coins embedded into foreheads (the souls within have the choice of serving as employees, or risk being lost forever to infernal commerce). All crew wear flower crowns as their uniform.
-![[Pasted image 20220512192047.png]]
+![[Ibnar.png]]
 
 -   Why use this shop?: If you have a spellcaster who might want a unique arcane focus, someone who enjoys beauty/finery, a means of upgrading the skeletons from the Dungeon of the Dead Three if they're still around, or as a means of information gathering via the flock of incubi and succubi out front.
 
@@ -126,6 +122,7 @@ A pitchfork (trident) costs 1 soul coin, and can have modifications purchased fr
 -   Store type: Magic Services
 
 -   Shop owner: Sister Elga, a green hag aspiring to become a night hag.
+![[Sister Elga.png]]
 
 -   Notable crew: A long-nosed gargoyle who watches the hut's door, a huge vulture who stands on the roof, and some kind of long-armed creature who performs tasks such as cleaning and inventory by reaching its long arms through tiny trapdoors around the shop.
 
