@@ -1,0 +1,112 @@
+{
+  "main": {
+    "id": "0362ce4d954bcd6e",
+    "type": "split",
+    "children": [
+      {
+        "id": "762a706456569448",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Important Characters/Arkhan.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "890a01de038afd76",
+    "type": "split",
+    "children": [
+      {
+        "id": "89e2c0e0afce01e6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c0cc4c62e3d84d99",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "2b34420d32b18ecf",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "ae61e5acb8356c45",
+    "type": "split",
+    "children": [
+      {
+        "id": "85bc5a378217c065",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2132a454f710f54d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Important Characters/Arkhan.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ad77a08f754bc963",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "762a706456569448",
+  "lastOpenFiles": [
+    "Important Characters/Arkhan.md",
+    "Imports/Rose Repose.csv",
+    "Locations/Wandering Emporium/The Rose Repose.md",
+    "Imports/Untitled.md",
+    "Templates/Magic Items Handlebar Template.md",
+    "Locations/Wandering Emporium/Wandering Emporium.md",
+    "Images/Pasted image 20220512191948.png",
+    "Pasted image 20220512192019.png",
+    "Images/Pasted image 20220512192047.png",
+    "Locations/Wandering Emporium/Blophog’s Wondrous Things.md"
+  ]
+}
