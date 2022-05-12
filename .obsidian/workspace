@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Important Characters/Arkhan.md",
+            "file": "Locations/Wandering Emporium/Wandering Emporium.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Important Characters/Arkhan.md",
+                "file": "Locations/Wandering Emporium/Wandering Emporium.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,15 +98,15 @@
   },
   "active": "762a706456569448",
   "lastOpenFiles": [
-    "Important Characters/Arkhan.md",
-    "Imports/Rose Repose.csv",
-    "Locations/Wandering Emporium/The Rose Repose.md",
-    "Imports/Untitled.md",
-    "Templates/Magic Items Handlebar Template.md",
     "Locations/Wandering Emporium/Wandering Emporium.md",
+    "Locations/Wandering Emporium/Gabool's Pitchfork Emporium.md",
+    "Locations/Wandering Emporium/The Rose Repose.md",
+    "Pasted image 20220512192019.png.md",
     "Images/Pasted image 20220512191948.png",
-    "Pasted image 20220512192019.png",
     "Images/Pasted image 20220512192047.png",
-    "Locations/Wandering Emporium/Blophog’s Wondrous Things.md"
+    "Images/Pasted image 20220512182346.png",
+    "Images/Pasted image 20220512181138.png",
+    "Images/Pasted image 20220512181754.png",
+    "Important Characters/Arkhan.md"
   ]
 }

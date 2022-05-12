@@ -1,0 +1,19 @@
+﻿Pitchfork Modification,Price,Effect
+Telescopic,1s,A button can extend the pitchfork up to 10 feet long or retract it. The weapon gains the reach property and can be used as a 10-foot pole while extended.
+Skewering,1s,"The pitchfork has backwards-facing prongs that make it hard to pull free from. On a critical hit with a melee attack, you can choose to grapple the target."
+Whistling,1s,"The pitchfork is hollow and makes an awful whistling scream as it flies through the air. The pitchforks throw range is doubled, but is audible out to 200 feet when thrown."
+Key,1s,"The pitchfork's prongs form a unique key. A large iron lock is provided, which the pitchfork opens. Can be installed in a warmachine's cargo trunk or any sufficiently large door or container."
+Chain,1s,"After making a thrown attack with this weapon, you can pull it back to your hand by the extending chain at the end of the weapon."
+Vicious,1s,"The pitchfork has large points and jagged, serrated edges. Critical hits with the weapon deal extra damage equal to the wielder's proficiency bonus."
+Heavy,1s,"The pitchfork is designed with a weight near the head, cutting its throwing range in half. If a thrown attack hits a flying creature of size medium or smaller, it must succeed on a Strength saving throw equal to 8 + your Proficiency bonus + your Strength modifier or fall prone."
+Boarspear,1s,"The pitchfork has small prongs sticking out the sides, allowing it to keep foes at bay more easily. When this weapon hit a creature of size medium or smaller on your turn, you can choose to move them 5 feet directly away from you."
+Shrinking,1s,"The pitchfork can collapse down into a somewhat large, 3-pronged eating fork. It is mechanically treated as a dagger."
+Growing,1s,The pitchfork can expand into a larger pitchfork. It is mechanically treated as a pike.
+Flame-spewer,1s,"The pitchfork can spit flames like a dragon. Once per day, it can be used to cast Agnazzar's Scorcher, requiring no components. The spell save DC for it is 14."
+On Fire,1s,"The pitchfork is always on fire. It deals an additional 1d6 fire damage on a hit, but it's wielder takes 1d6 fire damage each time they start their turn holding the weapon. Not reccomended for most non-devils."
+Axefork,1s,"The side prongs of the pitchfork are sharp axe-blades. The weapon can be used to attack as either a pitchfork or a battleaxe, but its throwing range is halved."
+Hellfire,1s,"The pitchfork gains the properties of a hellfire weapon, described in the magic items section of Descent into Avernus."
+Tormentor,3s,"The pitchfork is designed like a torture implement. On a critical hit, the weapon deals an additional 1d6 + INT modifier psychic damage. The weapon is considered magical."
+Flying,3s,"When thrown, you can use the pitchfork's range as if it were a creature's flying speed to fly around obstacles. Your character must still know the creature's location to hit the creature, but sight is not necessarily required. After the attack is concluded, the pitchfork flies back to your hand if it is free, regardless of its remaining speed. Choose one of the following means of controlling the pitchfork - it responds to your humming, whistling, or chanting, or it is bound to a ring and moves with the motion of your hand. The weapon is considered magical."
+Resonant,3s,"The pitchfork is styled much like a tuning fork. On a critical hit with this weapon, it deals an additional 1d6 thunder damage and causes the target to be deafened until the beginning of your next turn."
+Electrified,3s,"The pitchfork gains the effects of a javelin of lightning, described on page 178 of the Dungeon Master's Guide."

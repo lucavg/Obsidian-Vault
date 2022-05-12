@@ -5,7 +5,7 @@ Most merchants in the Wandering Emporium are indentured to [[Mahadi]]’s servic
 
 Mahadi is very serious about his contract between host and guest in the Wandering Emporium, and the only significant requirements for a guest are “No fighting, no spellcasting, and pay for services rendered.” The mere act of entering the Wandering Emporium signs a contract that there must be “no fuss,” which Mahadi holds for each guest, immediately canceled the moment they step outside the bounds of the establishment.
 # Shops:
-### [[Infernal Rapture]]:
+#### [[Infernal Rapture]]:
 As the owner and host of Infernal Rapture, Mahadi takes his responsibilities very seriously. Every patron that enters the demiplane that houses his establishment must sign an infernal contract. It presents a very simple arrangement stipulating that patrons must pay for everything consumed and all services used before they leave.
 
 Mahadi employs many servants, each of them under the effect of a [geas](https://www.dndbeyond.com/spells/geas) spell to provide the best service they possibly can and appear happy while they work. Most of these individuals are former patrons.
@@ -23,6 +23,7 @@ Special food requests can be filled, but they must be made weeks in advance and 
 **Spa Services.** Infernal Rapture offers a variety of spa services. Light spa amenities (body, foot, and hand treatments, massage therapy, skin care, general grooming and bathing) are included along with the standard dining menu at no additional expense.
 
 **Specialty services** include dream therapy, whole body restoration, and longevity therapy, as well as a host of services for every appetite, both wholesome and degenerate. Each of these services costs an additional [soul coin](https://www.dndbeyond.com/magic-items/842308-soul-coin). Mahadi consistently and laboriously upsells further services to clients at additional expense. He seeks to take possession of such individuals and make them permanent residents of Avernus.
+
 
 #### [[Firesnake Forge]]
 
@@ -100,7 +101,7 @@ Larvae. At any given time, Z’neth has 2d6 [larvae](https://www.dndbeyond.com
 Store type: Jeweler, Perfumist, Florist, Necromancer
 
 -   Shop owner: Vroscaz the lich
-![[Pasted image 20220512192019.png]]
+![[Pasted image 20220512191948.png]]
 
 -   Notable crew: Ibnar, undead mind flayer who Vroscaz rescued from its Elder Brain, skeletons with soul coins embedded into foreheads (the souls within have the choice of serving as employees, or risk being lost forever to infernal commerce). All crew wear flower crowns as their uniform.
 ![[Pasted image 20220512192047.png]]
@@ -109,3 +110,14 @@ Store type: Jeweler, Perfumist, Florist, Necromancer
 
 
 The Rose Repose, a shop embedded in the side of a warmachine with a wrought iron balcony out front, manages to stand out amongst the crowd of merchant stalls with a beautiful floral garden, crystal displays featuring jewels from across the planes, and the heavy scent of multiple types of perfume mixing together. Atop the wrought iron perches in front of the store rests a small flock of incubi and succubi wearing brightly-coloured silk robes, gossiping and taking sips from small vials of perfume. Looking inside the shop, skeletons with iron coins embedded in their skulls dutifully stock shelves while wearing flower crowns.
+
+#### [[Gabool's Pitchfork Emporium]]
+-   **Shop owner:** Vroscaz the lich
+-  **Store type:** Weapons
+-  **Shop owner:** Gabool, a spined devil with prominent pitchfork-like horns
+
+-  **Notable crew:** Gabool's "Brother" Argrel the barbed devil, cursed with a scrunched-up face and especially short legs. He repeats Gabool's pitchfork-related exclamations and helps with upkeep of the weapon stand.
+
+-  **Why use this shop?:** Many devils and yugoloths use pitchforks as their favoured weapons - it makes sense that they are in demand. It could also provide warmachines equipped with harpoon flingers some unique ammunition, at your discretion.
+
+A pitchfork (trident) costs 1 soul coin, and can have modifications purchased from the below table. A custom pitchfork costs 2 soul coins, and comes with three modifications (which each mustcome from the 1 soul range). A pitchfork can have up to four modifications. Pitchforks are not considered magic weapons unless specified by a modification.
