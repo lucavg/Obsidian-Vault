@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Important Characters/Richard the Orthon.md",
+            "file": "Locations/Wandering Emporium/Wandering Emporium.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Important Characters/Richard the Orthon.md",
+                "file": "Locations/Wandering Emporium/Wandering Emporium.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,10 +89,10 @@
   },
   "active": "a8d9e906deeb9a51",
   "lastOpenFiles": [
-    "Important Characters/Richard the Orthon.md",
     "Locations/Wandering Emporium/Wandering Emporium.md",
+    "Stat Blocks/Mahadi the Rakshasa.png",
+    "Important Characters/Richard the Orthon.md",
     "Locations/Wandering Emporium/The Rose Repose.md",
-    "Locations/Wandering Emporium/Ichor’s Aweigh!.md",
-    "Stat Blocks/Pasted image 20220512182346.png"
+    "Locations/Wandering Emporium/Ichor’s Aweigh!.md"
   ]
 }
