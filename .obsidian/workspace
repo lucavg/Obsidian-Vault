@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Locations/Wandering Emporium/Sister Elga's House of Curses.md",
+            "file": "Locations/Wandering Emporium/Blophog’s Wondrous Things.md",
             "mode": "preview",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Wandering Emporium/Sister Elga's House of Curses.md",
+                "file": "Locations/Wandering Emporium/Blophog’s Wondrous Things.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +89,15 @@
   },
   "active": "a8d9e906deeb9a51",
   "lastOpenFiles": [
-    "Locations/Wandering Emporium/Sister Elga's House of Curses.md",
+    "Locations/Wandering Emporium/Blophog’s Wondrous Things.md",
     "Locations/Wandering Emporium/Wandering Emporium.md",
+    "Locations/Wandering Emporium/Sister Elga's House of Curses.md",
     "Images/Characters/Brenda.png",
     "Locations/Wandering Emporium/The Rose Repose.md",
     "Locations/Wandering Emporium/Infernal Rapture/Mahadi.md",
     "Images/Characters/Fhet'Ahla.png",
     "Locations/Wandering Emporium/From Here to Avernus.md",
     "Images/Characters/Mahadi.png",
-    "Stat Blocks/Mahadi the Rakshasa.png",
-    "Important Characters/Richard the Orthon.md"
+    "Stat Blocks/Mahadi the Rakshasa.png"
   ]
 }
