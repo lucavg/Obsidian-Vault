@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Locations/Wandering Emporium/Infernal Rapture/Mahadi’s Deals.md",
+            "file": "Locations/Wandering Emporium/Ichor’s Aweigh!.md",
             "mode": "preview",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Wandering Emporium/Infernal Rapture/Mahadi’s Deals.md",
+                "file": "Locations/Wandering Emporium/Ichor’s Aweigh!.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +89,15 @@
   },
   "active": "a8d9e906deeb9a51",
   "lastOpenFiles": [
+    "Locations/Wandering Emporium/Ichor’s Aweigh!.md",
+    "Locations/Wandering Emporium/From Here to Avernus.md",
+    "Locations/Wandering Emporium/Wandering Emporium.md",
     "Locations/Wandering Emporium/Infernal Rapture/Mahadi’s Deals.md",
     "Locations/Wandering Emporium/Infernal Rapture/Mahadi.md",
-    "Locations/Wandering Emporium/Wandering Emporium.md",
     "Locations/Wandering Emporium/Blophog’s Wondrous Things.md",
     "Locations/Wandering Emporium/Sister Elga's House of Curses.md",
     "Locations/Wandering Emporium/The Rose Repose.md",
     "Compendia/Magic Item Price Guide.pdf",
-    "Locations/Wandering Emporium/From Here to Avernus.md",
-    "Locations/Wandering Emporium/Firesnake Forge.md",
-    "Images/Characters/Brenda.png"
+    "Locations/Wandering Emporium/Firesnake Forge.md"
   ]
 }
