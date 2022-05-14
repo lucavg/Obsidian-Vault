@@ -148,7 +148,8 @@ Sister Elga, a green hag aspiring to become a night hag.
 ### Notable crew: 
 A long-nosed gargoyle who watches the hut's door, a huge vulture who stands on the roof, and some kind of long-armed creature who performs tasks such as cleaning and inventory by reaching its long arms through tiny trapdoors around the shop.
 
-### Why use this shop?: Removing mutations caused by demon ichor requires a remove curse spell. If the party has nobody who can cast this spell, this shop can provide a means of recovering from these effects. In addition, if players find themselves with bitter rivals, they can ask the hag to place curses on them to get an edge.
+### Why use this shop?: 
+Removing mutations caused by demon ichor requires a remove curse spell. If the party has nobody who can cast this spell, this shop can provide a means of recovering from these effects. In addition, if players find themselves with bitter rivals, they can ask the hag to place curses on them to get an edge.
 
 A curse can be purchased in one of the following ways: as a one-time use poison (such as a dying toad who's last burp is poison gas, a vial of glowing blood to coat a weapon with for one strike, or toenail clippings which vanish into any meal they are sprinkled into without a trace), or by using a piece of the intended target. A poison requires a DC 15 Constitution save to avoid, while a curse cast through a piece of the target takes effect instantly. Any curse described here can be removed with a remove curse spell or similar effect.
 
