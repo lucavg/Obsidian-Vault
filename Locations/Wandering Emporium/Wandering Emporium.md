@@ -127,8 +127,10 @@ Ibnar, undead mind flayer who Vroscaz rescued from its Elder Brain, skeletons wi
 If you have a spellcaster who might want a unique arcane focus, someone who enjoys beauty/finery, a means of upgrading the skeletons from the Dungeon of the Dead Three if they're still around, or as a means of information gathering via the flock of incubi and succubi out front.
 
 ## [[Gabool's Pitchfork Emporium]]
-### **Store type:** Weapons
--  **Shop owner:** Gabool, a spined devil with prominent pitchfork-like horns
+### Store type:
+Weapons
+### Shop owner: 
+Gabool, a spined devil with prominent pitchfork-like horns
 ![[Gabool.png]]
 
 -  **Notable crew:** Gabool's "Brother" Argrel the barbed devil, cursed with a scrunched-up face and especially short legs. He repeats Gabool's pitchfork-related exclamations and helps with upkeep of the weapon stand.
