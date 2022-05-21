@@ -1,25 +1,49 @@
-After leaving Elturel, the adventurers head to Fort Knucklebone, a junkyard stronghold on the edge of a desolate expanse of Avernus ravaged by rival gangs of scavengers. Fort Knucklebone doesn’t appear on the poster map of Avernus, as the map’s cartographer never found or visited this location.
+Fort Knucklebones is a trading post; a sort of Port Royal for the Avernian warlords where they come for supplies, recreation, and repairs. This also makes it a useful hub of operations for the PCs.
 
-Fort Knucklebone provides shelter to a gang of wasteland marauders called the Knucklebones, serving as a garage where they build and repair infernal war machines. The Knucklebones answer to Mad Maggie, a night hag warlord who has an agreement with Zariel: the archduke of Avernus leaves Fort Knucklebone alone as long as Mad Maggie keeps the other warlords in the area in check.
+Mad Maggie is the current potentate of the fort. Although not a warlord herself, she is seen by them as an equal and the neutrality of the fort is (generally) respected.
 
-Lulu believes that the kenku from the visions reside in the fort and may be able to help, which is partially true. They can bring Lulu and the characters to Mad Maggie, who can in turn provide them with assistance.
+The fort itself, based around an outcropping or red rock shaped like a clawed hand, is somewhat described in _Descent Into Avernus_, p. 80:
+
+-   There’s a **rampart** of rock, bones, and metal debris with a **gatehouse**.
+-   The **outer court**, roughly the area that lies between the rampart and the knuckle gates.
+-   There are four **courtyards** located between each of the knuckles. These courtyards are fronted by the **knuckle gates**, which can be shut for an additional line of defense, but are generally left open.
+-   There is a **fastness** within the outcropping, with access caves from most of the knuckle courtyards. The fastness includes various storehouses and also Maggie’s demesne.
+
+> _Note: Fort Knucklebones is also likely to be the PCs’ first introduction to soul coins as a form of currency. Take the opportunity to push home the “you’re not in Kansas any more” moment. Check out [Addendum: Soul Coins](https://thealexandrian.net/wordpress/45049/roleplaying-games/remixing-avernus-addendum-soul-coins), for a more detailed look at how the coins can be used in Descent Into Avernus._
 
 ## Entering the fort
 The gatehouse serves as the entrance to Fort Knucklebone. Six [redcaps](https://www.dndbeyond.com/monsters/2556141-redcap) stand guard atop it. One redcap yells down at the characters as they approach, asking for the password. After a few moments, a different redcap says, “We don’t have a password!” All the redcaps fall over in peals of mirth.
 
 The redcaps on guard duty give the characters a difficult time, asking them to do ridiculous things to gain entrance. After a few minutes, when the characters get fed up with the nonsense, the redcaps tell them to quit standing around like idiots and come inside.
 
-## Seeing the Kenku
-**The area enclosed by the rampart is littered with trash and mechanical parts, some put together in a way that resembles a vehicle. Ramshackle structures, built from the same junk as the outer wall, provide shelter.**
+## BETWEEN THE KNUCKLES: 
+There are four courtyards located between the “knuckles” of the outcropping.
 
-**A platoon of small fey creatures mills about, all looking like feral gnomes. Several them sport tall red caps, some of which drip with vile ichor.**
+-   The **tinker’s shed**, a service station for war machines run by the kenku. A large cave at the back of this courtyard serves as a garage. The kenku live in a number of smaller caves that line the fingers to either side of the courtyard. A number of these caves are quite high, and the kenku have to climb ladders carved into the rock. (According to the flock’s oral tradition, before their entire species was cursed, the kenku of Fort Knucklebones could simply fly up to these caves. That’s how long they’ve been living here.)
+-   **The Well**, a bar built up around a rare natural spring of clean water. This spring is the reason Fort Knucklebones has been so constantly occupied. The barkeep at the Well is named [[Natasha the Dark]]; she claims to be a “cloned daughter of Baba Yaga.” (This would imply that she’s the clone-sister of Iggwilv. She’s probably making it up. But who knows? Maybe _she’s_ the real Tasha who invented _Tasha’s hideous laughter_ and Iggwilv stole _her_)
+-   The **arcade** is filled with market tents. Maggie’s infernal bank, run by an imp named [[Sarcasia]], can also be found here. (It houses her stockpile of soul coins, acts as a moneychanger, and offers loans of various sorts.)
+-   The **hostel**, located in the broad space between thumb and index finger, is more of a public campground. No fees are charged. Anyone can grab a slab of space and pitch a tent. (Maggie figures that if people are staying here, they’ll be spending money at the arcade and that’s where she gets her cut.) The imps love to play practical jokes on people staying here.
 
-**A pair of kenku examine one of the strange vehicles, chattering to each other in high-pitched squawks. These kenku carry an assortment of strange tools. When they see you, they turn and stare in wonder.**
+> _Note: “Tinker’s shed” is the generic term on Avernus for war machine repair shops or service stations. They take the name “shed” because they’re usually rather small. The kenku’s facility here at Fort Knucklebones is expansive, but still referred to as a shed._
 
-**One of the kenku waves in your direction as if telling you to remain where you are. “What a deal! Patience is a virtue! Can’t keep the boss waiting!” He runs off into one of the trash structures.**
+```csvtable
+source: Imports/Fort Knucklebones.csv
+```
 
-**Moments later he returns, leading a tall creature wearing a long, tattered shift covered in mud, blood, mold, and worse. The hag’s eyes seem to move independently of each other as she approaches, her straggly brown hair hanging in front of them. Resting on each shoulder are red-eyed ravens that scrutinize your group. Behind her, a hulking creature built of disparate fiendish parts trudges, moaning and hopping as it walks.**
+Extracting the location of the sword
 
-**Then both of the hag’s eyes focus keenly on your group, and on Lulu specifically. “My goodness!” the hag croaks, spittle dribbling from her mouth. “Where did you find such a treasure?”**
+-   The PCs come to Fort Knucklebones.
+-   The kenku explain that they can’t help, but maybe Mad Maggie can.
+-   Mad Maggie is intrigued (in large part due to her obsession with Zariel lore and Lulu’s presence in the rare tapestry she owns, see [Part 6D](https://thealexandrian.net/?p=45372)). She has a machine that she thinks could be used to recover Lulu’s lost memories.
+-   Just one problem: The machine doesn’t work. It’s missing four key components. The PCs will need to find these components in order to make the machine work.
 
-The characters can explain their predicament, and Mad Maggie can offer to unlock Lulu’s memories, joyfully telling the characters about Lulu’s possible relationship to Zariel. Before she does that, however, Mad Maggie tells the characters she needs to gather supplies for the ritual of memory unlocking. This gives the characters a chance to interact with the other members of Mad Maggie’s gang and maybe earn some good will with them as mentioned under their individual descriptions below.
+To find these components, the PCs will need to explore Avernus (as described in [Part 7](https://thealexandrian.net/?p=46140)). Once they have the components, the dream machine can be repaired and Lulu’s memories recovered (as described in [Part 6D-I](https://thealexandrian.net/?p=45859)).
+
+> _Homework: How did Mad Maggie get the dream machine?_
+
+**THE FOUR COMPONENTS**:
+
+-   **Nirvanan Cogbox**. Used in a variety of infernal machines, these cogboxes come from Mechanus.
+-   **Heartstone**. Used by night hags to infiltrate the dreams of their victims. It’s used as a prism or beam-splitter in the dream machine.
+-   **Phlegethosian sand**. Obsidian sand pounded from the jagged, rocky plains of Phlegethos, the fourth layer of Hell.
+-   **Astral pistons**. Another component used in various pieces of infernal machinery. The pistons are actually extruded into the astral plane, maximizing their mechanical output. It’s an outdated technology and rarely used these days.
