@@ -103,12 +103,55 @@ There are charonadaemon ferry stations on both shores of the Styx here. There ar
 
 The Alvskraema caravanserai is located next to the bridge which crosses the Pit of Shummrath. It is jointly operated by Brarumoch, Haskari, and Meltrus.
 
-**Brarumoch**: Operates the common room and runs the kitchen. The caravanserai’s specialty is elf meat. Brarumoch has a supplier who hunts and butchers elves on the Material Plane; here they are considered an expensive delicacy known as _alvskraema_.
+#### Brarumoch: 
+Operates the common room and runs the kitchen. The caravanserai’s specialty is elf meat. Brarumoch has a supplier who hunts and butchers elves on the Material Plane; here they are considered an expensive delicacy known as _alvskraema_.
 
 (This doesn’t mean that any elf walking through the door will be set upon and butchered. That’s not the sort of thing you do to a customer.)
 
-**Haskari**: Operates a weapons forge. He specializes in creating cacophonous weapons, which allow those wielding them to speak and understand Abyssal. (See [_Forges of Avernus_](https://www.dmsguild.com/product/294349/Forges-of-Avernus?affiliate_id=81207).)
+#### Haskari: 
+Operates a weapons forge. He specializes in creating cacophonous weapons, which allow those wielding them to speak and understand Abyssal. (See [_Forges of Avernus_](https://www.dmsguild.com/product/294349/Forges-of-Avernus?affiliate_id=81207).)
 
-**Meltrus**: Specializes in repairing and building infernal machines. He and Haskari are constantly squabbling over shop space.
+#### Meltrus: 
+Specializes in repairing and building infernal machines. He and Haskari are constantly squabbling over shop space.
 
 > _Design Note: Note that the name Alvskraema is more or less “Elfscream” in Old Norse. It’s designed to echo the Elfsong Tavern from Baldur’s Gate. Thanks to Flallen from [my Twitch chat](https://twitch.tv/thealexandirian) for the suggestion of Elfscream Tavern._
+
+![[Alvskraema Caravanserai.png]]
+
+#### B3. WITCH-QUEEN’S ABODE  
+-   [_Dance of Deathless Frost_](https://www.dmsguild.com/product/293787/Dance-of-the-Deathless-Frost?affiliate_id=81207)
+
+Tasha keeps a summer home in Avernus, as described in [_Dance of Deathless Frost_](https://www.dmsguild.com/product/293787/Dance-of-the-Deathless-Frost?affiliate_id=81207)_._ She is aware of **Kostchtchie’s phylactery**, knows that Baba Yaga knows its resting place, and is able to summon Baba Yaga’s hut.
+
+### B4. RED RUTH’S LAIR  
+-   _Descent Into Avernus_, p. 107
+
+Red Ruth has a **heartstone**.
+
+### B5. BONE CRATER  
+
+A large meteor impact crater formed by a huge skull (more than ten feet across) that’s partially embedded at the center of the crater.
+
+### B6. WARLORD LAIR: SOUL COLLECTORS  
+-   [_Warlords of Avernus_](https://www.dmsguild.com/product/297172/Warlords-of-Avernus?affiliate_id=81207), p. 2
+-   [Map by Dyson Logos](https://dysonlogos.blog/2020/11/09/shrine-of-the-demon-eskarna/)
+
+This is the lair of the warlord Algoran and his gang, the Soul Collectors.
+
+#### Shrine to Eskarna: 
+Algoran discovered an ancient shrine dedicated to the demon Eskarna. It was built countless aeons ago at a time during which the demons had pushed the front lines of the Blood War deep into Avernus. Long abandoned and forgotten, it was discovered by Algoran and converted into a gladiatorial arena.
+
+#### Gladiatorial Arena: 
+Watched over by the well-worn statue of Eskarna, Algoran hosts gladiatorial competitions here which attract a varied crowd of visitors and competitors.
+
+#### Cogbox: 
+Algoran recently acquired a modron slave as a wager during the gladiatorial fights. The modron has a **Nirvanan cogbox**. The modron might be willing to trade it for anyone who can help them gain their freedom; alternatively, if Algoran learns its value, he will seize it and try to make a deal (or wager) himself.
+
+#### Shaaksuraar’s Armory: 
+A “mountain of a sahuagin-werebear” called Shaaksuraar oversees a productive weapons forge for Algoran. This is located in the river cavern; Shaaksuraar goes on swims through the subterranean river and also quenches his fresh-forged weapons in the waters here. See [_Forges of Avernus_](https://www.dmsguild.com/product/294349/Forges-of-Avernus?affiliate_id=81207), p. 3.
+
+For more details on the Avernian warlords, see [Part 7E](https://thealexandrian.net/wordpress/46667/roleplaying-games/remixing-avernus-part-7f-warlords-of-avernus) of the Remix.
+
+> _Design Note: The concept of Eskarna comes [from Dyson’s original key](https://dysonlogos.blog/2020/11/09/shrine-of-the-demon-eskarna/) for this map, although we have reduced it to an ancient ruin here. In Forges of Avernus, Shaaksuraar manages the Goregut Armory, but the Goreguts’ lair (Hex J3) in the Remix has been destroyed by Princeps Kovik (Hex J5). I’ve reassigned Shaaksuraar to Algoran, but you could also make this part of his backstory: That he worked for Raggadragga until his forge was destroyed by Kovik. (To add extra drama, perhaps Shaaksuraar betrayed Raggadragga to Kovik for a large payment of soul coins before transferring his services to his new forge here.)_
+
+![[Soul Collectors Lair.png]]
