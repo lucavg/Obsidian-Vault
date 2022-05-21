@@ -102,6 +102,7 @@ Bazelsteen has a set of **astral pistons** that he keeps for repairing antique
 50% chance that a flying fortress is docked. 1 in 3 chance that it’s Zariel’s.
 
 > _Design Note: Developing the commanders of the other two flying fortresses currently making regular pit stops at this dock might be something worth pursuing._
+![[Stygian Dock.png]]
 
 ### H5. ELEMENTAL GALLEON  
 -   [_Abyssal Incursion_](https://www.dmsguild.com/product/294570/Abyssal-Incursion?affiliate_id=81207), p. 4

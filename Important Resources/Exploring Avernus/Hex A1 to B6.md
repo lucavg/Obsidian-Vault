@@ -61,6 +61,7 @@ Creating a new tuned keystone requires:
 -   An appropriate workshop (such as those located in Bel’s Fortress, Fort Knucklebones, or other Warlord armories).
 
 > _Note: There is an unkeyed keystone in the Dump (Hex H1)._
+![[Arches of Ulloch.png]]
 
 ### A5. WARLORD LAIR: THE LOST GOLGARI  
 -   [_Warlords of Avernus_](https://www.dmsguild.com/product/297172/Warlords-of-Avernus?affiliate_id=81207), p. 8

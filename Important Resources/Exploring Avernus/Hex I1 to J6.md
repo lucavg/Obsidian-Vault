@@ -41,6 +41,7 @@ See [Part 6C](https://thealexandrian.net/wordpress/45073/roleplaying-games/remi
 -   _Descent Into Avernus_, p. 96
 
 The devilish work crew knows details of the surrounding area (major landmarks, keyed locations, etc.) to a distance of two hexes.
+![[Spawning Trees.png]]
 
 ---
 
@@ -110,6 +111,8 @@ This dungeon is located beneath a razed demonic fortress that was wiped out when
 -   [Map by Dyson Logos](https://dysonlogos.blog/2020/05/11/the-old-fort/)
 
 Princeps Kovik and the Eighth Remnant are ensconced within the bone brambles. Signifier Hraxioch of the 9th Cohort (Hex J6) has been charged with hunting down these rebels and there is a constant guerilla warfare of sorts between them within the twisted eaves of the brambles.
+
+![[Bone Brambles.png]]
 
 #### Fetterworks: 
 The Eighth Remnant has a forge for weapons and infernal machines maintained by an enslaved centaur named Hobblehoof. See [_Forges of Avernus_](https://www.dmsguild.com/product/294349/Forges-of-Avernus?affiliate_id=81207), p. 3.
