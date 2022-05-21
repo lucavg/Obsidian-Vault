@@ -34,3 +34,81 @@ Bel told Ubbalux that the secret to escaping the prison was hidden in the arcane
 Combining the two “nonsense” syllables on each stone forms a command word associated with that stone. You can intuit the correct order of the syllables by looking at the matched syllable from the school of magic. (So the syllable in the cartouche with the first syllable of the school of magic should be the first syllable of the command word and the second syllable should be the second.)
 
 To release Ubbalux, you need to place your hand on each stone and speak the associated command word (suffering the effect described on pg. 98 of _Decent Into Avernus_). Once this has been done with all eight stones, the energy field drops: Ubbalux is freed and the central obelisk can be accessed.
+```csvtable
+source: Imports/Obelisk of Ubbalux.csv
+```
+### A3. OOZE HARVESTERS  
+
+Treacherous stone steps are carved into the cliff face surrounding the Pit of Shummrath, leading down to a miserable village which has been built upon a shelf of rock that thrusts out into the green ooze.
+
+A pair of piscoloths and a gaggle of sahuagin overseers dominate a population of enslaved half-fiend goblins who dredge sludge from the Pit and bottle it. These are shipped to the piscolothian cities in the dark waters beneath the ice of Stygia, where the oil-slick-like telepathic emanations of the sludge are a kind of delicacy used to spice food.
+
+#### Asmodean Cavern: 
+The mouth of a cave at the base of the cliffs in the goblin village leads to several chambers containing ancient fiendish pillars. The four faces of each pillar are covered with worn runes in an archaic form of Infernal and the bas reliefs of various devil faces. Touching the runes causes the devil faces on the matching pillar to animate and recite them. Collectively they tell of the Trial of Asmodeus and the rights given to Asmodeus under the First Law by the ruling of Primus, Lord of the Modrons. This site is recorded as being one of sixty-six such memorials erected to record this epochal event.
+
+The goblins lived in these caverns, but several years ago they were flooded by a sudden undulation of the Pit. Shummrathian ooze still lingers in the depths of the cave, creating a hostile environment for the goblins who still squat here.
+![[Asmodean Cavern.png]]
+### A4. ARCHES OF ULLOCH  
+-   _Descent Into Avernus_, p. 103
+
+The Arches of Ulloch allow the mass transport of entire armies, but they require the use of a **tuned keystone** (similar to the planar tuning fork required for a _plane shift_ spell) to align them with a particular plane of existence.
+
+One of the arches currently has an ancient **Avernian keystone**, allowing teleportation to anywhere within Avernus.
+
+Creating a new tuned keystone requires:
+-   Either the original plans (located in Bel’s Fortress, Hex H2) or a DC 20 Intelligence (Arcana) check to reverse engineer the existing keystone.
+-   50 soul coins worth of raw materials.
+-   An appropriate workshop (such as those located in Bel’s Fortress, Fort Knucklebones, or other Warlord armories).
+
+> _Note: There is an unkeyed keystone in the Dump (Hex H1)._
+
+### A5. WARLORD LAIR: THE LOST GOLGARI  
+-   [_Warlords of Avernus_](https://www.dmsguild.com/product/297172/Warlords-of-Avernus?affiliate_id=81207), p. 8
+
+This is the lair of Kolasiah, the Infernal Medusa, and the Lost Golgari, who have come to Avernus from Ravnica. Kolasiah seeks a way of returning home and would value any news of a powerful spellcaster not allied with Zariel.
+
+#### Entrance Ramp: 
+Infernal war machines come roaring down the ramp and are parked in a cluster around the central stone pillar.
+
+#### Forge: 
+In the central pillar of the rock at the bottom of the entrance ramp there is a forge and garage run by Malargan the Oni. See [_Forges of Avernus_](https://www.dmsguild.com/product/294349/Forges-of-Avernus?affiliate_id=81207), p. 4. A set of **astral pistons** can be found here.
+
+For more details on the Avernian warlords, see [Part 7E](https://thealexandrian.net/wordpress/46667/roleplaying-games/remixing-avernus-part-7f-warlords-of-avernus) of the Remix.
+![[Forge of the Golgari.png]]
+### A6. WARLORD LAIR: BITTER BREATH’S MARAUDERS  
+-   [_Bitter Rivals_](https://www.dmsguild.com/product/303705/Bitter-Rivals--an-Eventyr-Games-adventure-for-Baldurs-Gate-Descent-into-Avernus?affiliate_id=81207), p. 5
+-   _Descent Into Avernus_, p. 90
+
+For more details on the Avernian warlords, see [Part 7E](https://thealexandrian.net/wordpress/46667/roleplaying-games/remixing-avernus-part-7f-warlords-of-avernus) of the Remix.
+
+### B1. ARKHAN’S TOWER  
+-   _Descent Into Avernus_, p. 110
+
+For Arkhan’s Tower, we would like to prep:
+-   A complete map of the tower.
+-   An adversary roster of the denizens. (_Descent Into Avernus_, p. 110-11 does provide a comprehensive list of creatures to add to the roster.)
+
+For the map, I will recommend PogS’ [excellent original cartography](https://www.reddit.com/r/DescentintoAvernus/comments/lf7lr6/arkhans_tower_hatchery/).
+
+### B2a. FERRYMAN’S PORTS  
+-   On River
+
+There are charonadaemon ferry stations on both shores of the Styx here. There are commissions available for travel up- and downriver, but most regular travel simply crosses the river to the other station.
+
+**Sudok’s Mart**: The station on the contra-Dis side of the river is larger and contains a small market overseen by a yugoloth named Sudok.
+
+### B2b. ALVSKRAEMA CARAVANSERAI  
+-   [Map by Dyson Logos](https://dysonlogos.blog/2019/07/01/winekraken/)
+-   On Bridge (Across Pit of Shummrath)
+
+The Alvskraema caravanserai is located next to the bridge which crosses the Pit of Shummrath. It is jointly operated by Brarumoch, Haskari, and Meltrus.
+
+**Brarumoch**: Operates the common room and runs the kitchen. The caravanserai’s specialty is elf meat. Brarumoch has a supplier who hunts and butchers elves on the Material Plane; here they are considered an expensive delicacy known as _alvskraema_.
+
+(This doesn’t mean that any elf walking through the door will be set upon and butchered. That’s not the sort of thing you do to a customer.)
+
+**Haskari**: Operates a weapons forge. He specializes in creating cacophonous weapons, which allow those wielding them to speak and understand Abyssal. (See [_Forges of Avernus_](https://www.dmsguild.com/product/294349/Forges-of-Avernus?affiliate_id=81207).)
+
+**Meltrus**: Specializes in repairing and building infernal machines. He and Haskari are constantly squabbling over shop space.
+
+> _Design Note: Note that the name Alvskraema is more or less “Elfscream” in Old Norse. It’s designed to echo the Elfsong Tavern from Baldur’s Gate. Thanks to Flallen from [my Twitch chat](https://twitch.tv/thealexandirian) for the suggestion of Elfscream Tavern._
