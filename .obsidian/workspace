@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Important Resources/Exploring Avernus/Hex C1 to D6.md",
+            "file": "Important Resources/Exploring Avernus/HEX E1 to F6.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Important Resources/Exploring Avernus/Hex C1 to D6.md",
+                "file": "Important Resources/Exploring Avernus/HEX E1 to F6.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +89,7 @@
   },
   "active": "2786b4b6543e399d",
   "lastOpenFiles": [
+    "Important Resources/Exploring Avernus/HEX E1 to F6.md",
     "Important Resources/Exploring Avernus/Hex C1 to D6.md",
     "Important Resources/Exploring Avernus/Hex A1 to B6.md",
     "Locations/Wandering Emporium/Gabool's Pitchfork Emporium.md",
@@ -97,7 +98,6 @@
     "Locations/Fort Knucklebone/Fort Knucklebone.md",
     "Locations/Wandering Emporium/From Here to Avernus.md",
     "Locations/Wandering Emporium/Firesnake Forge.md",
-    "Locations/Wandering Emporium/Blophog’s Wondrous Things.md",
-    "Locations/Fort Knucklebone/Barnabas.md"
+    "Locations/Wandering Emporium/Blophog’s Wondrous Things.md"
   ]
 }
