@@ -49,7 +49,7 @@ Zariel is on the front lines of a titanic battle between devils and strange crea
 #### Zariel Becomes Archduchess: 
 Zariel is crowned by Asmodeus. (“All hail the Archduchess of Avernus, may she rule eternal at the left hand of the Archfiend.”)
 
-#### G5b. PLAGUESHIELD POINT  
+### G5b. PLAGUESHIELD POINT  
 -   _[The Diabolical Dive](https://www.dmsguild.com/product/291677/DDAL0907-The-Diabolical-Dive?affiliate_id=81207)_
 -   On the Styx (under the river)
 
@@ -62,3 +62,60 @@ The large geode at the heart of Plagueshield Point contains multitudes. It’s n
 
 #### Demonologist’s Tower: 
 When Respen (see Shadowswimmer Tower, Hex I6) worked here, he used a **heartstone** in his research and it can still be found here.
+
+### G6. WRECKED FLYING FORTRESS  
+-   _Descent Into Avernus_, p. 118
+
+The flying fortresses are built to a standard plan and have been for aeons. By thoroughly exploring the wreck, the PCs can learn the layout of the fortresses (which may assist them if they wish to mount a raid or heist on Zariel’s fortress).
+
+### H1. THE DUMP
+-   _[Infernal Insurgency](https://www.dmsguild.com/product/290898/DDAL0906-Infernal-Insurgency?affiliate_id=81207)_
+-   On River
+
+The Dump was once the Void Chateau, a strange house in Waterdeep owned by a mage known as Chalice Void. The chateau eventually vanished from Waterdeep and reappeared in various towns along the Sword Coast, before settling once more on a hill outside of the village of Amphail. One morning there was a terrible howling sound and the chateau vanished from the Material Plane forever.
+
+It had somehow become embedded in the banks of the River Styx. It now serves as a munitions dump, supplying materiel to the frontlines of the Blood War.
+
+The Dump contains an **unkeyed keystone** to the Arches of Ulloch (hex A4), which can be rekeyed with only 10 soul coins of raw materials.
+
+### H2. BEL’S FORGE
+-   _Descent Into Avernus_, p. 113
+
+Bel’s Forge is too small. You should either:
+
+-   Revise the lore so that this is just one of many such forward-positioned forges that serve the front lines of the Blood War. (Bel could perhaps have been specifically banished to this demeaning frontier posting by Zariel, information which could be seeded into the rumor tables.)
+-   Significantly [revise the Forge](https://thealexandrian.net/wordpress/47535/roleplaying-games/call-of-the-netherdeep-running-betrayers-rise) so that it is a much, much larger complex with tunnels and workshops riddling the entire volcano.
+
+Bel’s Forge uses **Phlegethosian sand** to quench certain types of infernal blades.
+
+---
+
+### H3. DOCK OF FALLEN CITIES / ELTUREL 
+See [Part 5](https://thealexandrian.net/?p=44687) and [Part 6B](https://thealexandrian.net/?p=45005).
+
+### H4. STYGIAN DOCK  
+-   _Descent Into Avernus_, p. 123
+-   On River
+
+Bazelsteen has a set of **astral pistons** that he keeps for repairing antique infernal machines, which he’ll exchange for assistance with Test Run 221 (DIA, p. 124).
+
+50% chance that a flying fortress is docked. 1 in 3 chance that it’s Zariel’s.
+
+> _Design Note: Developing the commanders of the other two flying fortresses currently making regular pit stops at this dock might be something worth pursuing._
+
+### H5. ELEMENTAL GALLEON  
+-   [_Abyssal Incursion_](https://www.dmsguild.com/product/294570/Abyssal-Incursion?affiliate_id=81207), p. 4
+-   On River
+
+The _Mirror’s Edge_, an elemental galleon from the world of Eberron, has crashed on the shores of the Styx.
+
+### H6. MODRON OUTPOST  
+-   Visible 2 (volcano) / Hidden (outpost, see below)
+
+Clinging to the inside wall of a volcano’s caldera is a modron outpost. A huge geothermal spike thrusts down into the volcano below, powering a clockwork menagerie of technomantic marvels within the outpost. Upon occasion, the outpost extends an astral antenna above the rim of the volcano to take readings and also broadcast transplanar reports. The antenna can also provide access to the outpost.
+
+(When this antenna is raised, it can be visible to a great distance. The outpost should otherwise be considered a Hidden location.)
+
+The modrons use this outpost to monitor the Blood War. Its presence is known to the local Blood Legions and tolerated: partly because they’ve learned that if they destroy these monitoring outposts, the modrons just build more; partly because the modrons have also been known to trade valuable technomantic items upon occasion.
+
+The modrons have a supply of **Nivanan cogboxes**.
