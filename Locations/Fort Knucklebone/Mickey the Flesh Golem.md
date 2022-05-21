@@ -1,0 +1,6 @@
+#### Mickey the Flesh Golem
+
+Shortly after arriving in Avernus, Mad Maggie created Mickey, a [fiendish flesh golem](https://www.dndbeyond.com/monsters/417091-fiendish-flesh-golem) comprised of fiendish body parts scavenged from the battlefields of Avernus. Mickey is a sweet, dumb brute who follows Mad Maggie’s orders.
+
+## Mickey’s Goal. 
+Unknown to anyone else at Fort Knucklebone, Mickey has a large piece of a destroyed bone devil lodged in his foot, which makes walking difficult for the brute. Unable to speak, he moans as he walks and does a bit of a hopping dance. The madcaps and redcaps think this is wonderful, and they occasionally accompany him in a vile song and dance. Characters who witness this and succeed on a **DC 15 Wisdom ([Insight](https://www.dndbeyond.com/compendium/rules/basic-rules/using-ability-scores#Insight)) check** realize Mickey’s plight. They can then attempt to remove the bone fragment without permanently inhibiting Mickey’s stride. A successful **DC 15 Wisdom ([Medicine](https://www.dndbeyond.com/compendium/rules/basic-rules/using-ability-scores#Medicine)) check** allows for the successful removal of the bone. After that, Mickey can walk without moaning or hopping, making Mad Maggie more amenable to assisting the characters. The redcaps and madcaps, however, become angry that they can no longer “do the Mickey.”
