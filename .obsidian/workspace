@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Important Resources/Exploring Avernus/Hex I1 to J6.md",
+            "file": "Important Resources/Exploring Avernus/Hex Map of Avernus.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Important Resources/Exploring Avernus/Hex I1 to J6.md",
+                "file": "Important Resources/Exploring Avernus/Hex Map of Avernus.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +89,15 @@
   },
   "active": "fe5a14083b032d71",
   "lastOpenFiles": [
-    "Important Resources/Exploring Avernus/Hex I1 to J6.md",
-    "Important Resources/Exploring Avernus/Hex A1 to B6.md",
-    "Important Resources/Exploring Avernus/Hex G1 to H6.md",
-    "Important Resources/Exploring Avernus/HEX E1 to F6.md",
-    "Important Resources/Exploring Avernus/Hex C1 to D6.md",
-    "Locations/Wandering Emporium/Gabool's Pitchfork Emporium.md",
     "Important Resources/Exploring Avernus/Hex Map of Avernus.md",
-    "Important Resources/Untitled.md",
-    "Locations/Fort Knucklebone/Fort Knucklebone.md",
-    "Locations/Wandering Emporium/From Here to Avernus.md"
+    "Important Resources/Exploring Avernus/Hex I1 to J6.md",
+    "Important Resources/Exploring Avernus/Hex C1 to D6.md",
+    "Important Resources/Exploring Avernus/Hex A1 to B6.md",
+    "Images/Stygian Dock.png",
+    "Images/Untitled.md",
+    "Important Resources/Exploring Avernus/HEX E1 to F6.md",
+    "Compendia/Encounters_in_Avernus.pdf",
+    "Important Resources/Exploring Avernus/Hex G1 to H6.md",
+    "Locations/Wandering Emporium/Gabool's Pitchfork Emporium.md"
   ]
 }

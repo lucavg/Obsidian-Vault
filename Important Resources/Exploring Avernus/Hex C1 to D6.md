@@ -57,6 +57,7 @@ This place is anathema to those with fiendish blood, who simply cannot enter (as
 -   On River
 
 The tributary of the Styx shown on the hexmap here is known as the Malignant Tributary and has strange effects on those who drink from it (as described in _Encounters in Avernus_).
+![[Malignant Tributary.png]]
 
 ### D2a. WARLORD LAIR: CAROL D’VOWN  
 -   [_Warlords of Avernus_](https://www.dmsguild.com/product/297172/Warlords-of-Avernus?affiliate_id=81207), p. 4

@@ -75,6 +75,7 @@ The tunnel struck a number of natural caves and other cavities. Hellwasps have e
 Kostchtchie is more than willing to team up against Zariel if freed. What form that assistance takes will depend a lot on the plan the PCs propose (don’t feel bound by the adventure’s script here).
 
 As described in [_Dance of Deathless Frost_](https://www.dmsguild.com/product/293787/Dance-of-the-Deathless-Frost?affiliate_id=81207), the demon cannot be permanently killed unless **Kostchtchie’s phylactery** is destroyed. This is why Zariel has imprisoned Kostchtchie instead of killing him. PCs who obtain the phylactery (see the Witch-Queen’s Abode, Hex B3) would have something of value to Zariel… and even greater value to Kostchtchie.
+![[Kostchtchie's Maw.png]]
 
 ### J3. WARLORD LAIR: GOREGUTS GANG  
 -   _Descent Into Avernus_, p. 87

@@ -22,6 +22,7 @@ There are a pair of ramps facing each other across the Styx. Those riding  infe
 -   On River
 
 **MEETING HARUMAN / QUESTIONING HELLRIDERS**: See [Part 6D-L: Questioning the Hellriders](https://thealexandrian.net/?p=46059).
+![[Haruman's Hill.png]]
 
 ### G4. POOL OF ICHOR 
 -   [_Encounters in Avernus_](https://www.dmsguild.com/product/289061/Encounters-in-Avernus?affiliate_id=81207), p. 10
