@@ -30,20 +30,25 @@ There are four courtyards located between the “knuckles” of the outcropping.
 source: Imports/Fort Knucklebones.csv
 ```
 
-Extracting the location of the sword
-
+## Extracting the location of the sword
 -   The PCs come to Fort Knucklebones.
 -   The kenku explain that they can’t help, but maybe Mad Maggie can.
--   Mad Maggie is intrigued (in large part due to her obsession with Zariel lore and Lulu’s presence in the rare tapestry she owns, see [Part 6D](https://thealexandrian.net/?p=45372)). She has a machine that she thinks could be used to recover Lulu’s lost memories.
+-   Mad Maggie is intrigued. She has a machine that she thinks could be used to recover Lulu’s lost memories.
 -   Just one problem: The machine doesn’t work. It’s missing four key components. The PCs will need to find these components in order to make the machine work.
 
 To find these components, the PCs will need to explore Avernus (as described in [Part 7](https://thealexandrian.net/?p=46140)). Once they have the components, the dream machine can be repaired and Lulu’s memories recovered (as described in [Part 6D-I](https://thealexandrian.net/?p=45859)).
 
-> _Homework: How did Mad Maggie get the dream machine?_
-
-**THE FOUR COMPONENTS**:
-
--   **Nirvanan Cogbox**. Used in a variety of infernal machines, these cogboxes come from Mechanus.
+### THE FOUR COMPONENTS:
+-   **Nirvanan Cogbox**. Used in a variety of infernal machines, these cogboxes come from Mechanus. 
 -   **Heartstone**. Used by night hags to infiltrate the dreams of their victims. It’s used as a prism or beam-splitter in the dream machine.
 -   **Phlegethosian sand**. Obsidian sand pounded from the jagged, rocky plains of Phlegethos, the fourth layer of Hell.
 -   **Astral pistons**. Another component used in various pieces of infernal machinery. The pistons are actually extruded into the astral plane, maximizing their mechanical output. It’s an outdated technology and rarely used these days.
+### Location of the components
+**Astral Pistons**: She’s heard that an oni named Malargan — the forgemaster of Kolasiah, a local warlord — has a set of astral pistons in his forge. (Hex A5)
+
+**Astral Pistons**: Uldrak the Tinker, whose shop is based out of a titanic helmet located in the western end of the Plains of Fire, had a set of astral pistons in stock a few years back when one of Maggie’s riders (now dead) needed repairs for an antique war machine. It’s possible he might still have a supply. (Hex D5)
+
+**Phlegethosian sand**: Mad Maggie and Red Ruth (Hex B4) were part of a coven along with a third night hag named Gaunt Gella. Mad Maggie believes that Red Ruth killed Gella and stole her heartstone. Maggie suspects that Red Ruth is still located somewhere in Avernus, but she doesn’t know where. However, she _has_ heard rumors that Red Ruth has been seen at Mahadi’s Emporium from time to time, and the PCs might check there for a lead to Red Ruth’s current location.
+
+**Nirvanan Cogbox**: Nirvanan cogboxes are a modronic technomancy. Maggie has heard that a modron ship crashed on the shores of the Styx contra-Dis from Fort Knucklebones. (The ship is located in Hex H5, but it’s actually an elemental galleon from Eberron and does not have a cogbox.)
+
