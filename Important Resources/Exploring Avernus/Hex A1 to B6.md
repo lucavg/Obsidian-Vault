@@ -127,6 +127,7 @@ Tasha keeps a summer home in Avernus, as described in [_Dance of Deathless Fros
 -   _Descent Into Avernus_, p. 107
 
 Red Ruth has a **heartstone**.
+![[Red Ruth's Lair.png]]
 
 ### B5. BONE CRATER  
 
