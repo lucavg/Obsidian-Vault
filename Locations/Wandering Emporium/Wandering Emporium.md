@@ -21,15 +21,15 @@ Since Infernal Rapture exists in a demiplane, it doesn’t technically reside in
 
 Each chamber that exists inside Infernal Rapture is created for a specific purpose. When that purpose ends and the occupants of the chamber leave, that room ceases to exist unless Mahadi deems otherwise.
 
-### **Dining Services.** 
+### Dining Services. 
 The dining menu at Infernal Rapture changes daily, providing a fixed-price selection. Sample menus are provided as player handouts in [appendix E](https://www.dndbeyond.com/sources/bgdia/infernal-rapture-menu "appendix E"). A full meal costs one [soul coin](https://www.dndbeyond.com/magic-items/842308-soul-coin). Unlike food consumed elsewhere in Avernus, which is uniformly terrible, the food at Infernal Rapture tastes delicious.
 
 Special food requests can be filled, but they must be made weeks in advance and can be costly. Mahadi charges from five to ten [soul coins](https://www.dndbeyond.com/magic-items/842308-soul-coin) for an exotic request, depending on the difficulty involved in fulfilling it. Consuming a meal at Infernal Rapture has the same benefits as a [heroes’ feast](https://www.dndbeyond.com/spells/heroes-feast) spell, with the added effect that those who eat the food have disadvantage on Wisdom ([Insight](https://www.dndbeyond.com/compendium/rules/basic-rules/using-ability-scores#Insight)) checks made against Mahadi.
 
-### **Spa Services.** 
+### Spa Services. 
 Infernal Rapture offers a variety of spa services. Light spa amenities (body, foot, and hand treatments, massage therapy, skin care, general grooming and bathing) are included along with the standard dining menu at no additional expense.
 
-### **Specialty services** 
+### Specialty services 
 Specialty servicesinclude dream therapy, whole body restoration, and longevity therapy, as well as a host of services for every appetite, both wholesome and degenerate. Each of these services costs an additional [soul coin](https://www.dndbeyond.com/magic-items/842308-soul-coin). Mahadi consistently and laboriously upsells further services to clients at additional expense. He seeks to take possession of such individuals and make them permanent residents of Avernus.
 
 
@@ -39,9 +39,9 @@ This establishment is run by three [salamanders](https://www.dndbeyond.com/mons
 
 The salamanders’ infernal war machine has been cobbled together from a half dozen others. At a moment’s notice, the vehicle can separate into three smaller infernal war machines, each piloted by one of the salamanders. Treat these smaller vehicles as [Tormentors](https://www.dndbeyond.com/vehicles/tormentor).
 
-**Weapons and Armor.** All metal armor and weapons listed in [chapter 5](https://www.dndbeyond.com/sources/phb/equipment "chapter 5") of the _[Player’s Handbook](https://www.dndbeyond.com/sources/phb "Player’s Handbook")_ are available for sale at this shop, at a 150 percent markup.
+Weapons and Armor. All metal armor and weapons listed in [chapter 5](https://www.dndbeyond.com/sources/phb/equipment "chapter 5") of the _[Player’s Handbook](https://www.dndbeyond.com/sources/phb "Player’s Handbook")_ are available for sale at this shop, at a 150 percent markup.
 
-**Infernal War Machine Repair.** The salamanders can repair a damaged but functional infernal war machine at a cost of 50 gp per hit point restored.
+Infernal War Machine Repair. The salamanders can repair a damaged but functional infernal war machine at a cost of 50 gp per hit point restored.
 
 ## Brenda the Barber
 ![[Brenda.png]]
@@ -58,7 +58,7 @@ Brenda has received several blessings in her service to Bahamut:
 -   Brenda always knows the location of the Wandering Emporium and can transport herself there as though by a [word of recall](https://www.dndbeyond.com/spells/word-of-recall) spell. This explains why Brenda simply seems to appear amid the fully deployed marketplace each morning it is active to provide service and tell stories.
 -   Once each day, when Brenda so desires, she can instantly transport herself to the court of Bahamut via a powerful blessing akin to the [plane shift](https://www.dndbeyond.com/spells/plane-shift) spell.
 
-### **Barber Pricing.** 
+### Barber Pricing. 
 Brenda charges 1 gp for each service involving grooming. Brenda can provide some small amount of magic healing, but only does so for good-aligned creatures, and at no cost.
 
 If someone offers Brenda a [soul coin](https://www.dndbeyond.com/magic-items/842308-soul-coin) for any reason, she looks extremely disappointed and turns it down. She refuses even to touch one.
@@ -69,10 +69,11 @@ Fhet’Ahla, an [amnizu](https://www.dndbeyond.com/monsters/94669-amnizu), prov
 
 Fhet’Ahla failed a critical mission at some point in the past and gained the disfavor of Asmodeus. As a punishment, Asmodeus posted him with Mahadi. While Fhet’Ahla doesn’t owe Mahadi any kind of debt, he is on the wrong side of Asmodeus and has no idea how many centuries this service will last. The amnizu is also forbidden from challenging Mahadi’s authority in all matters pertaining to the operation of the Wandering Emporium or any other special assignments the rakshasa receives from Asmodeus.
 
-### **Delivery Pricing.** 
+### Delivery Pricing. 
 Fhet’Ahla charges a single [soul coin](https://www.dndbeyond.com/magic-items/842308-soul-coin) for parcel deliveries weighing 5 pounds or less. For a larger parcel (up to 50 pounds), he charges two [soul coins](https://www.dndbeyond.com/magic-items/842308-soul-coin).
 
-### **Notary Pricing.** Fhet’Ahla charges a single [soul coin](https://www.dndbeyond.com/magic-items/842308-soul-coin) for notary services and collects a single [soul coin](https://www.dndbeyond.com/magic-items/842308-soul-coin) for exchanges that don’t involve the soul of a celestial. If a celestial is involved, he collects ten [soul coins](https://www.dndbeyond.com/magic-items/842308-soul-coin).
+### Notary Pricing. 
+Fhet’Ahla charges a single [soul coin](https://www.dndbeyond.com/magic-items/842308-soul-coin) for notary services and collects a single [soul coin](https://www.dndbeyond.com/magic-items/842308-soul-coin) for exchanges that don’t involve the soul of a celestial. If a celestial is involved, he collects ten [soul coins](https://www.dndbeyond.com/magic-items/842308-soul-coin).
 
 ## [[Ichor’s Aweigh!]]
 
@@ -83,7 +84,7 @@ Elliach, a lawful evil human [mage](https://www.dndbeyond.com/monsters/16947-ma
 ![[Elliach.png]]
 Elliach met Mahadi while on the run from debt collectors. Mahadi saw the value in paying off Elliach’s debts and bringing him to Avernus to work in the Wandering Emporium. Thought to be insane by many of the other vendors, Elliach uses demon ichor in a host of magical experiments, none of which seem to have the intended results.
 
-### **Demon Ichor Prices.**
+### Demon Ichor Prices.
 Elliach sells demon ichor for 50 gp a flask and buys demon ichor for 25 gp a flask.
 
 ## Z’neth’s Larva Farm
@@ -97,7 +98,7 @@ Z’neth procures larvae from yugoloths and sells them at marked-up prices to ha
 
 If the characters pay his establishment a visit, Z’neth offers them nine [soul coins](https://www.dndbeyond.com/magic-items/842308-soul-coin) (all he has) for Mahadi’s head. A [geas](https://www.dndbeyond.com/spells/geas) spell prevents the hobgoblin from divulging Mahadi’s true form. Mahadi greets Z’neth’s would-be assassins with a smile and is more than happy to accept Z’neth’s [soul coins](https://www.dndbeyond.com/magic-items/842308-soul-coin) as payment for goods and services at his fine restaurant.
 
-### **Larvae.** 
+### Larvae. 
 At any given time, Z’neth has 2d6 [larvae](https://www.dndbeyond.com/monsters/27752-larva) trapped in cages. He charges one [soul coin](https://www.dndbeyond.com/magic-items/842308-soul-coin) per larva.
 
 ## [[Blophog’s Wondrous Things]]
@@ -110,41 +111,50 @@ At any given time, Z’neth has 2d6 [larvae](https://www.dndbeyond.com/monsters
 ![[Tavokiin.png]]
 
 ## [[The Rose Repose]]
-Store type: Jeweler, Perfumist, Florist, Necromancer
+### Store type: 
+Jeweler, Perfumist, Florist, Necromancer
 
 The Rose Repose, a shop embedded in the side of a warmachine with a wrought iron balcony out front, manages to stand out amongst the crowd of merchant stalls with a beautiful floral garden, crystal displays featuring jewels from across the planes, and the heavy scent of multiple types of perfume mixing together. Atop the wrought iron perches in front of the store rests a small flock of incubi and succubi wearing brightly-coloured silk robes, gossiping and taking sips from small vials of perfume. Looking inside the shop, skeletons with iron coins embedded in their skulls dutifully stock shelves while wearing flower crowns.
 
-### **Shop owner:** 
+### Shop owner: 
 Vroscaz the lich
 ![[Vroscaz.png]]
 
-### **Notable crew:** 
+### Notable crew: 
 Ibnar, undead mind flayer who Vroscaz rescued from its Elder Brain, skeletons with soul coins embedded into foreheads (the souls within have the choice of serving as employees, or risk being lost forever to infernal commerce). All crew wear flower crowns as their uniform.
 ![[Ibnar.png]]
 
-### **Why use this shop?:** 
+### Why use this shop?: 
 If you have a spellcaster who might want a unique arcane focus, someone who enjoys beauty/finery, a means of upgrading the skeletons from the Dungeon of the Dead Three if they're still around, or as a means of information gathering via the flock of incubi and succubi out front.
 
 ## [[Gabool's Pitchfork Emporium]]
-### **Store type:** Weapons
--  **Shop owner:** Gabool, a spined devil with prominent pitchfork-like horns
+### Store type: 
+Weapons
+### Shop owner: 
+Gabool, a spined devil with prominent pitchfork-like horns
 ![[Gabool.png]]
 
--  **Notable crew:** Gabool's "Brother" Argrel the barbed devil, cursed with a scrunched-up face and especially short legs. He repeats Gabool's pitchfork-related exclamations and helps with upkeep of the weapon stand.
+### Notable crew: 
+Gabool's "Brother" Argrel the barbed devil, cursed with a scrunched-up face and especially short legs. He repeats Gabool's pitchfork-related exclamations and helps with upkeep of the weapon stand.
 
--  **Why use this shop?:** Many devils and yugoloths use pitchforks as their favoured weapons - it makes sense that they are in demand. It could also provide warmachines equipped with harpoon flingers some unique ammunition, at your discretion.
+### Why use this shop?: 
+Many devils and yugoloths use pitchforks as their favoured weapons - it makes sense that they are in demand. It could also provide warmachines equipped with harpoon flingers some unique ammunition, at your discretion.
 
 A pitchfork (trident) costs 1 soul coin, and can have modifications purchased from the below table. A custom pitchfork costs 2 soul coins, and comes with three modifications (which each mustcome from the 1 soul range). A pitchfork can have up to four modifications. Pitchforks are not considered magic weapons unless specified by a modification.
 
-#### [[Sister Elga's House of Curses]]
--   Store type: Magic Services
+## [[Sister Elga's House of Curses]]
+### Store type: 
+Magical Services
 
--   Shop owner: Sister Elga, a green hag aspiring to become a night hag.
+### Shop owner: 
+Sister Elga, a green hag aspiring to become a night hag.
 ![[Sister Elga.png]]
 
--   Notable crew: A long-nosed gargoyle who watches the hut's door, a huge vulture who stands on the roof, and some kind of long-armed creature who performs tasks such as cleaning and inventory by reaching its long arms through tiny trapdoors around the shop.
+### Notable crew: 
+A long-nosed gargoyle who watches the hut's door, a huge vulture who stands on the roof, and some kind of long-armed creature who performs tasks such as cleaning and inventory by reaching its long arms through tiny trapdoors around the shop.
 
--   Why use this shop?: Removing mutations caused by demon ichor requires a remove curse spell. If the party has nobody who can cast this spell, this shop can provide a means of recovering from these effects. In addition, if players find themselves with bitter rivals, they can ask the hag to place curses on them to get an edge.
+### Why use this shop?: 
+Removing mutations caused by demon ichor requires a remove curse spell. If the party has nobody who can cast this spell, this shop can provide a means of recovering from these effects. In addition, if players find themselves with bitter rivals, they can ask the hag to place curses on them to get an edge.
 
 A curse can be purchased in one of the following ways: as a one-time use poison (such as a dying toad who's last burp is poison gas, a vial of glowing blood to coat a weapon with for one strike, or toenail clippings which vanish into any meal they are sprinkled into without a trace), or by using a piece of the intended target. A poison requires a DC 15 Constitution save to avoid, while a curse cast through a piece of the target takes effect instantly. Any curse described here can be removed with a remove curse spell or similar effect.
 
