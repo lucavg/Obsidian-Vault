@@ -10,4 +10,4 @@ Mahadi has a special collection of named soul coins, each of which harbors the s
 If adventurers inform Mahadi (and by extension [[Asmodeus]]) about [[Arkhan]]’s possession of the [Hand of Vecna](https://www.dndbeyond.com/magic-items/11114-hand-of-vecna), Mahadi does everything he can to strike a deal with them, offering any of the gifts listed under “[[Mahadi’s Deals]]” in exchange for the artifact. This is in lieu of the terms normally offered by Asmodeus.
 
 ![[Mahadi.png]]
-![[Pasted image 20220512182346.png]]
+![[Mahadi the Rakshasa.png]]

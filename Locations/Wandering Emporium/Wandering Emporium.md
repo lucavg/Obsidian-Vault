@@ -72,7 +72,7 @@ Fhet’Ahla failed a critical mission at some point in the past and gained the d
 ### Delivery Pricing. 
 Fhet’Ahla charges a single [soul coin](https://www.dndbeyond.com/magic-items/842308-soul-coin) for parcel deliveries weighing 5 pounds or less. For a larger parcel (up to 50 pounds), he charges two [soul coins](https://www.dndbeyond.com/magic-items/842308-soul-coin).
 
-### Notary Pricing. 
+### **Notary Pricing.** 
 Fhet’Ahla charges a single [soul coin](https://www.dndbeyond.com/magic-items/842308-soul-coin) for notary services and collects a single [soul coin](https://www.dndbeyond.com/magic-items/842308-soul-coin) for exchanges that don’t involve the soul of a celestial. If a celestial is involved, he collects ten [soul coins](https://www.dndbeyond.com/magic-items/842308-soul-coin).
 
 ## [[Ichor’s Aweigh!]]
@@ -128,7 +128,7 @@ Ibnar, undead mind flayer who Vroscaz rescued from its Elder Brain, skeletons wi
 If you have a spellcaster who might want a unique arcane focus, someone who enjoys beauty/finery, a means of upgrading the skeletons from the Dungeon of the Dead Three if they're still around, or as a means of information gathering via the flock of incubi and succubi out front.
 
 ## [[Gabool's Pitchfork Emporium]]
-### Store type: 
+### Store type:
 Weapons
 ### Shop owner: 
 Gabool, a spined devil with prominent pitchfork-like horns
