@@ -72,7 +72,7 @@ Fhet’Ahla failed a critical mission at some point in the past and gained the d
 ### Delivery Pricing. 
 Fhet’Ahla charges a single [soul coin](https://www.dndbeyond.com/magic-items/842308-soul-coin) for parcel deliveries weighing 5 pounds or less. For a larger parcel (up to 50 pounds), he charges two [soul coins](https://www.dndbeyond.com/magic-items/842308-soul-coin).
 
-### **Notary Pricing.** 
+### Notary Pricing.
 Fhet’Ahla charges a single [soul coin](https://www.dndbeyond.com/magic-items/842308-soul-coin) for notary services and collects a single [soul coin](https://www.dndbeyond.com/magic-items/842308-soul-coin) for exchanges that don’t involve the soul of a celestial. If a celestial is involved, he collects ten [soul coins](https://www.dndbeyond.com/magic-items/842308-soul-coin).
 
 ## [[Ichor’s Aweigh!]]

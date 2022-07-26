@@ -19,11 +19,9 @@
         "id": "8a4decdda976cb34",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "image",
           "state": {
-            "file": "Locations/Wandering Emporium/Wandering Emporium.md",
-            "mode": "source",
-            "source": false
+            "file": "Images/Alvskraema Caravanserai.png"
           }
         }
       }
@@ -81,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Images/Alvskraema Caravanserai.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,17 +106,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "14a990aa8d3522ae",
+  "active": "8a4decdda976cb34",
   "lastOpenFiles": [
+    "Images/Alvskraema Caravanserai.png",
+    "Stat Blocks/Mahadi the Rakshasa.png",
+    "Locations/Wandering Emporium/Wandering Emporium.md",
     "conflict-files-obsidian-git.md",
     "Locations/Fort Knucklebone/Mad Maggie.md",
-    "Locations/Wandering Emporium/Wandering Emporium.md",
     "Locations/Fort Knucklebone/Chukka and Clonk.md",
     "Locations/Fort Knucklebone/Barnabas.md",
     "Locations/Fort Knucklebone/Pins and Needles.md",
     "Locations/Fort Knucklebone/1. Fort Knucklebone.md",
-    "Images/Ogdroth.png",
-    "Images/Mad Maggie & Mickey.png",
-    "Locations/Fort Knucklebone/Mickey the Flesh Golem.md"
+    "Images/Ogdroth.png"
   ]
 }
