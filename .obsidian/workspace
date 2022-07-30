@@ -4,18 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "14a990aa8d3522ae",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "conflict-files-obsidian-git.md",
-            "mode": "source",
-            "source": false
-          }
-        }
-      },
-      {
         "id": "8a4decdda976cb34",
         "type": "leaf",
         "state": {
