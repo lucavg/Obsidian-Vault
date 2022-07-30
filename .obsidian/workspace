@@ -7,9 +7,9 @@
         "id": "8a4decdda976cb34",
         "type": "leaf",
         "state": {
-          "type": "image",
+          "type": "pdf",
           "state": {
-            "file": "Images/Alvskraema Caravanserai.png"
+            "file": "Compendia/Vysianter's Guide to the Red Wastes.pdf"
           }
         }
       }
@@ -38,7 +38,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "wrecked flying",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -67,7 +67,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Images/Alvskraema Caravanserai.png",
+                "file": "Compendia/Vysianter's Guide to the Red Wastes.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,17 +94,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "8a4decdda976cb34",
+  "active": "c0cc4c62e3d84d99",
   "lastOpenFiles": [
-    "Images/Alvskraema Caravanserai.png",
-    "Stat Blocks/Mahadi the Rakshasa.png",
-    "Locations/Wandering Emporium/Wandering Emporium.md",
-    "conflict-files-obsidian-git.md",
-    "Locations/Fort Knucklebone/Mad Maggie.md",
-    "Locations/Fort Knucklebone/Chukka and Clonk.md",
-    "Locations/Fort Knucklebone/Barnabas.md",
-    "Locations/Fort Knucklebone/Pins and Needles.md",
+    "Compendia/2907037-rp_admiralssuccess_v1.1.pdf",
+    "Compendia/2907037-rp_tyrantsofthepurplecity_v1.1.pdf",
+    "Compendia/Magic Item Price Guide.pdf",
+    "Important Resources/Exploring Avernus/Hex G1 to H6.md",
+    "Important Resources/Exploring Avernus/Hex A1 to B6.md",
+    "Important Resources/Exploring Avernus/Hex Map of Avernus.md",
+    "Compendia/Encounters_in_Avernus.pdf",
     "Locations/Fort Knucklebone/1. Fort Knucklebone.md",
-    "Images/Ogdroth.png"
+    "conflict-files-obsidian-git.md",
+    "Images/Alvskraema Caravanserai.png"
   ]
 }
